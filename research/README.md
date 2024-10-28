@@ -8,7 +8,7 @@
 ---
 Ссылка на обоснование темы: [GoogleDocs](https://docs.google.com/document/d/1Q314_RXF0SDzG8tH7d6DlaXOZ8z3hVloAQTGEoBrgmI/edit?tab=t.0)
 
-## Ссылки на статьи
+## Ссылки на статьи - нужно добавить краткий анализ этих статей
 [Are Human Conversations Special? A Large Language Model Perspective](https://arxiv.org/pdf/2403.05045)
 
 
