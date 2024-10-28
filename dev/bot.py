@@ -10,7 +10,7 @@ nest_asyncio.apply()
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Токен, который вы получили от @BotFather
-TOKEN = '7895585178:AAGIR97LGt9wIh7eL4Tyk9teIDOOqZMKZ6A'  # Replace with your actual token
+TOKEN = '                  '  # Replace with your actual token
 
 # Словарь для хранения данных пользователей
 user_ids = {}
